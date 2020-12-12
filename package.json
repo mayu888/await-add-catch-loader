@@ -1,6 +1,6 @@
 {
   "name": "await-add-catch-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "add catch for await",
   "main": "lib/index.js",
   "scripts": {
