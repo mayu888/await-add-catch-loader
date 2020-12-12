@@ -1,0 +1,20 @@
+{
+  "name": "await-add-catch-loader",
+  "version": "1.0.1",
+  "description": "add catch for await",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "yarn run rollup -c",
+    "start": "yarn run rollup -c -w"
+  },
+  "keywords": ["async","await","promise"],
+  "author": "mayu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/parser": "^7.12.10",
+    "@babel/template": "^7.12.7",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0"
+  }
+}
